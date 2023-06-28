@@ -1,0 +1,4 @@
+#Tue Jun 27 23:32:20 IST 2023
+base.0=C\:\\Users\\GOPI_VMT\\StudioProjects\\stop_watch\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
